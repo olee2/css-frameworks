@@ -1,3 +1,4 @@
+@import "_variables.scss";
 @import "../../node_modules/bootstrap/scss/bootstrap";
 
 html,
@@ -15,6 +16,18 @@ body {
 
 .main-container {
   max-width: 720px;
+}
+
+.heart {
+  fill: $secondary;
+}
+
+.bi-heart-fill {
+  fill: $secondary;
+}
+
+.bi-chat-text-fill {
+  fill: $primary;
 }
 
 /*-------------------------------------------------------------------------------

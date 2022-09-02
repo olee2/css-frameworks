@@ -5,8 +5,21 @@ body {
   height: 100%;
 }
 
-//Classes from https://getbootstrap.com/docs/5.2/examples/sign-in/
+.profile-image {
+  max-width: 300px;
+}
 
+.friend {
+  max-width: 3rem;
+}
+
+.main-container {
+  max-width: 720px;
+}
+
+/*-------------------------------------------------------------------------------
+Classes for sign in form from https://getbootstrap.com/docs/5.2/examples/sign-in/
+-------------------------------------------------------------------------------*/
 .form-signin {
   max-width: 400px;
   padding: 15px;
@@ -38,14 +51,4 @@ body {
   background-repeat: no-repeat;
 }
 
-.profile-image {
-  max-width: 300px;
-}
-
-.friend {
-  max-width: 3rem;
-}
-
-.main-container {
-  max-width: 720px;
-}
+/*End sign in form*/

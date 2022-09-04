@@ -1,9 +1,6 @@
-# Noroff CSS-FrameWorks
+# CSS Frameworks
 
-## Goal
-
-To apply knowledge of Bootstrap and SASS to build a responsive front end for a social media application.
-Brief
+## Brief
 
 You are tasked with creating 3 pages in HTML using Bootstrap and SASS:
 
@@ -20,3 +17,22 @@ The login page should have a form to login to the application. Make sure to incl
 You will only be working on the visuals for this project at this stage, forms do not need to submit data, for example.
 
 Submission for this project will follow the pattern used in professional development. You are required to seek feedback from your peers as well as the teachers in order to complete this assignment.
+
+## Getting Started
+
+### Installing
+
+```
+npm install
+```
+
+### Running
+
+Here is where you detail how to run the app. It typically involves the commands you'd need to run to start the project e.g.
+
+To run the app, run the following commands:
+
+```bash
+npm run build
+npm run watch
+```
